@@ -20,7 +20,7 @@ a) Very Intelligent Result Until Source
 
 b) Very Interchanged Resource Under Search
 
-***c) Vital Information Resource Under Siege***
+***c) Vital Information Resource Under Seize***
 
 d) Viral Important Record User Searched
 
