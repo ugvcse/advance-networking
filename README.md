@@ -6,11 +6,11 @@
 ---
 **Question-01: URL এর পূর্ননাম –**
 
-***a) Universal Remote Locator***
+a) Universal Remote Locator
 
 b) Universal Resource Language
 
-c) Uniform Resource Locator
+***c) Uniform Resource Locator***
 
 d) Uniform Resource Language
 
