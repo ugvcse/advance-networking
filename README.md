@@ -493,3 +493,219 @@ b) বিএলসি
 ***c) ফায়ারওয়াল***
 
 d) এন্টিভাইরাস
+
+**Question-51: Upgrading which component of a host machine would most likely enable you to run more virtual machines simultaneously?**
+	
+a) CPU
+
+b) Hard drive
+
+***c) RAM***
+
+d) Windows
+
+**Question-52: What feature lets you save a VM’s state so you can quickly restore to that point? (Choose two.)**
+	
+**a) Export**
+
+b) Save
+
+**c) Snapshot**
+
+d) Zip
+
+**Question-53:	Virtual box runs on which operating systems?**
+
+a) Windows
+
+b) Linux
+
+c) MAC
+
+**d) All Of them.**
+
+**Question-54: What do you need to run of Windows 10 into a virtual machine using VirtualBox?**
+
+**a) Windows 10 iso**
+
+b) Windows 10 Backup
+
+c) Windows 10 licence 
+
+d)  A second NIC 
+
+**Question-55: Which of the following is an advantage of a virtual machine over a physical machine?**
+	
+a) Increased performance
+
+**b) Hardware consolidation**
+
+c) No backups needed
+
+d) Operating systems included
+
+**Question-56: UGV wants to start a new photo-sharing service for real pictures of Bigfoot, but doesn’t own any servers. How can they quickly create a new server to run there service?**
+	
+**a) Public cloud**
+
+b) Private cloud
+
+c) Community cloud
+
+d) Hybrid cloud
+
+**Question-57: Powerful hypervisors like ESXi (Type 1 hypervisor) are often booted from __________________.**
+
+a) Floppy diskettes
+
+**b) USB thumb drives**
+
+c) Firmware
+
+d) Windows
+
+**Question-58: When a virtual machine is not running, how is it stored?**
+	
+a) Firmware
+
+b) RAM drive
+
+c) Optical disc
+
+**d) Files**
+
+**Question-59: Which type of Hypervisor is shown in the following figure?**
+
+![q59](https://www.sanfoundry.com/wp-content/uploads/2015/10/cloud-computing-questions-answers-hypervisors-1-q1.png "q59")
+
+**a) Type 1**
+
+b) Type 2
+
+c) Type 3
+
+d) All of the mentioned
+
+**Question-60: Which of the following is Type 2 VM?**
+
+a) VirtualLogix VLX
+
+b) VMware ESX
+
+c) Xen
+
+**d) VirtualBOX**
+
+**Question-61: Which of the following is Type 1 VM?**
+
+a) Hyper V
+
+b) VMware Workstation
+
+**c) VMware ESXI**
+
+d) VirtualBOX
+
+**Question-62: Which network mode allow VM to connect external router?**
+
+a) NAT
+
+**b) Bridge**
+
+c) Host Only
+
+d) Not attached.
+
+**Question-63: You have been tasked with creating a virtual machine that will be providing hosted services on the physical network, and possibly the Internet. What network mode should be used?**
+
+a. local mode
+
+**b. bridged mode**
+
+c. shared mode
+
+d. host only mode
+
+**Question-64: What format enables a virtual machine to be moved between virtualization platforms, and is often used for deploying virtual appliances?**
+
+a. Virtual Machine Disk (VMDK)
+
+b. Virtual Disk Image (VDI)
+
+**c. Open Virtualization Format (OVF)**
+
+d. Shared Virtualization System (SVS)
+
+**Question-65: You are installing VirtualBox on a computer. What is the minimum amount of RAM required to perform the install?**
+
+**a. 512 MB**
+
+b. 1024 MB
+
+c. 4096 MB
+
+d. 8192 MB
+
+**Question-67: What file extension is used by a VirtualBox Machine Definition file?**
+
+a. .vmng
+
+**b. .vbox**
+
+c. .vcfg
+
+d. .virt
+
+
+**Question-68: Under what menu within VirtualBox can a virtual appliance be exported?**
+
+**a. File Menu**
+
+b. Machine Menu.
+
+c. Settings Menu
+
+d. Preferences Menu
+
+
+**Question-69: What keyboard shortcut can be used to release mouse in VirtualBox?**
+
+a. Ctrl + Alt 
+
+**b. Right Ctrl**
+
+c. Del
+
+d. Right Ctrl + Break
+
+**Question-70: You are configuring an IDE controller within VirtualBox. How many drives are you allowed to add to the controller?**
+
+a. one
+
+b. two
+
+c. three
+
+**d. four**
+
+**Question-71: Does we need .iso after OS installation on virtualbox?**
+
+a) yes
+
+**b) no**
+
+c) always need to connected 
+
+d) never needed. 
+
+**Question-72 What is the maximum number of virtual hard disks that can be supported on the SATA controller within VirtualBox?**
+
+a. 8
+
+b. 16
+
+**c. 30**
+
+d. 60
+
+
