@@ -708,4 +708,34 @@ b. 16
 
 d. 60
 
+**Question-73 "UGV" wants to purchase some network hardware into which they can plug the 30 PCs in your department LAB. Which type of network device is appropriate?**
+
+a. A Router
+
+**b. A Switch**
+
+c. A Server
+
+d. A Firewall.
+
+
+**Question-74 You receive a video file from your friend,s Apple iPhone using AirDrop. What was his iPhone functioning as in that transaction?**
+
+
+**a. A Server**
+
+b. A Client
+
+c. A local area network.
+
+d. A Router
+
+
+**Question-75 When you transfer a file using shareit, why does your phone creates a custom wifi hotspot?**
+
+a. To create a WAN network
+
+b. To create a MAN network
+
+**c. To create a LAN network.**
 
