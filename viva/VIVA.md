@@ -1,51 +1,54 @@
 **Advance Networking suggestion.**
 1. **What's the Full meaning of DHCP?.**
-A. Dynamic Host Configuration Protocol
-B. Double Host Configuration Protocol 
-C. Dynamic Hyper Configuration Pc
-D. Dynamic Host Control Protocol
+  A. Dynamic Host Configuration Protocol
+  B. Double Host Configuration Protocol 
+  C. Dynamic Hyper Configuration Pc
+  D. Dynamic Host Control Protocol
 **Ans**. A
 
 2. **What's the full meaning of PPPoE?**
-A. Point-to-Point Protocol
-B. Pairing To Point Protocol 
-C. Pc to pc point protocol
-D. Personal point to point Encryption
+  A. Point-to-Point Protocol
+  B. Pairing To Point Protocol 
+  C. Pc to pc point protocol
+  D. Personal point to point Encryption
 **Ans.** A
 
 3. **Which WiFi encryption is not true?**
-A. WPA2
-B. WPA
-C. WEP
-D. WPSK2 
+  A. WPA2
+  B. WPA
+  C. WEP
+  D. WPSK2 
 **Ans.** C
 
 4.  **What's the full form of WAN**
-A. Wifi Area Network
-B. Wide Area Network
-C. Wide Antenna Network
-D. Wifi Antenna Network
-
+  A. Wifi Area Network
+  B. Wide Area Network
+  C. Wide Antenna Network
+  D. Wifi Antenna Network
 **Ans.** B
+
 5. **What's the full form of LAN**
-A. Local Area Network
-B. Lan Area Network
-C. Land Area Network
-D. Love Area Network
+  A. Local Area Network
+  B. Lan Area Network
+  C. Land Area Network
+  D. Love Area Network
 
 **Ans.** A
+
 6. **IP full form**
-A. Internet Protocol
-B. Information Pass
-C. Internet Position
-D. Internal Protocol
+  A. Internet Protocol
+  B. Information Pass
+  C. Internet Position
+  D. Internal Protocol
+  
 **Ans.** A 
 
 7. **Best practice of Dhcp server in a network is**
-A. Single DHCP server
-B. Multiple DHCP server
-C. Double DHCP server
-D. Triple DHCP server
+  A. Single DHCP server
+  B. Multiple DHCP server
+  C. Double DHCP server
+  D. Triple DHCP server
+  
 **Ans.** A
 
 8. **Which cable is used for connecting a router with pc?**
@@ -133,10 +136,11 @@ D. Triple DHCP server
 **Ans.** touch filename
 
 37. **Which windows distribution does not have Remote Deskrop Connection feature?**
-A. Windows 10 Home
-B. Windows 10  Pro
-C. Windows 8 pro
-D. Windows 8 Enterprise
+  A. Windows 10 Home
+  B. Windows 10  Pro
+  C. Windows 8 pro
+  D. Windows 8 Enterprise
+  
 **Ans.** a
 
 38. **Remote Desktop Connection uses which port?**
@@ -174,20 +178,22 @@ Ans. ipconfig /renew
 Ans. 172.16.10.100
 
 49. **Which ip is correct?**
-A. 1928.168.10.10
-B. 172.168.109.257
-C. 146.22.222.1111
-D. 172.16.10.122
+  A. 1928.168.10.10
+  B. 172.168.109.257
+  C. 146.22.222.1111
+  D. 172.16.10.122
+  
 **Ans.** D
 
 50. **Write a ip pool for 100 user**
 Ans. 172.168.1.100 - 172.168.1.202
 
 51. **Which one is subnet mask?**
-A. 192.168.111.1
-B. 256.256.256.256.1
-C. 10.10.1.256.256
-D. 255.255.255.0
+  A. 192.168.111.1
+  B. 256.256.256.256.1
+  C. 10.10.1.256.256
+  D. 255.255.255.0
+  
 **Ans.** D
 
 52. **Syntax to ping in command.**
